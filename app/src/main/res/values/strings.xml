@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FoonkieMonkey_Test</string>
+    <string name="Expert">Expert Samurais on Develop Secure apps with Sensitive data.</string>
+    <string name="weAreSamurais">We are samurais code monkeys that masters the most recent data security protocols, encrypted methodologies and Blockchain development.</string>
+    <string name="getInTouch">Get in Touch!</string>
+    <string name="caseStudies">Case studies</string>
+    <string name="digitalPlatform">Digital Platform for Pfizer</string>
+    <string name="coment">"Give the Hability to the content administrator to create, edit, and delete the desired commercial content in a technological solution, and allow the users to download and work online or offline with the content, were the two main challenges we had.  "</string>
+    <string name="viewProject">View Project</string>
+    <string name="pfizer">Pfizer</string>
+    <string name="takeda">Takeda</string>
+    <string name="boston">Boston Scientific Group</string>
+    <string name="BSJI">BSJI</string>
+    <string name="letsGo">Let’s work together!</string>
+    <string name="bogota">Bogotá:</string>
+    <string name="harpen">Harpenden, UK:</string>
+    <string name="miami">Miami, USA</string>
+    <string name="bogota_address">Calle 106 # 54-15 of. 307/308</string>
+    <string name="harpen_address">Harpenden Hall, Southdown Rd</string>
+    <string name="miami_address">990 Biscayne Blvd #501</string>
+    <string name="foonkie_monkey_2022">Foonkie Monkey 2022</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
