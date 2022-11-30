@@ -7,6 +7,8 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.findNavController
+import com.vncmsk.foonkiemonkey_test.R
 import com.vncmsk.foonkiemonkey_test.databinding.FragmentMainBinding
 import kotlinx.android.synthetic.main.fragment_main.*
 
@@ -31,6 +33,10 @@ class MainFragment : Fragment() {
 
     button_getInTouch2.setOnClickListener {
       callMail()
+    }
+
+    button_menu.setOnClickListener {
+      it.findNavController().navigate(R.id.listFragment)
     }
   }
 

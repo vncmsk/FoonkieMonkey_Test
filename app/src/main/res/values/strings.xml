@@ -15,10 +15,12 @@
     <string name="bogota">Bogotá:</string>
     <string name="harpen">Harpenden, UK:</string>
     <string name="miami">Miami, USA</string>
-    <string name="bogota_address">Calle 106 # 54-15 of. 307/308</string>
+    <string name="bogota_address">Calle 106 # 54–15 of. 307/308</string>
     <string name="harpen_address">Harpenden Hall, Southdown Rd</string>
     <string name="miami_address">990 Biscayne Blvd #501</string>
     <string name="foonkie_monkey_2022">Foonkie Monkey 2022</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
 </resources>
